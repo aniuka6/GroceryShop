@@ -13,7 +13,6 @@ public class Apple extends Fruit{
     public Apple(int weight, String type, String odmianana) {
         super(weight, type);
         this.odmianana = odmianana;
-        type = "jabłkowaty";
     }
 
 
